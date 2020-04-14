@@ -36,6 +36,7 @@ python model.py
 
 ### Driving Autonomously
 To drive the car autonomously, this project requires the [Udacity Simulator](https://github.com/udacity/self-driving-car-sim). After installing and starting the simulator, the car can be driven autonomously around the track by executing the following command:
+
 ```sh
 python drive.py md_nvidia.h5
 ```
